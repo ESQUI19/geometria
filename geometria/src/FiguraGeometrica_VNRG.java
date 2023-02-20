@@ -1,9 +1,9 @@
 
-public abstract class FiguraGeometrica {
+public abstract class FiguraGeometrica_VNRG {
 
 	protected String tipoFigura;
 
-	public FiguraGeometrica(String tipoFigura) {
+	public FiguraGeometrica_VNRG(String tipoFigura) {
 		super();
 		this.tipoFigura = tipoFigura;
 	}
