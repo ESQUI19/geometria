@@ -7,6 +7,10 @@ public class Circulo_VNRG extends FiguraGeometrica_VNRG {
 	public Circulo_VNRG(double r, String tipoFigura) {
 		super(tipoFigura);
 		radio = r;
+		
+		if(radio < 0) {
+			radio = radio *(-1);
+		}
 	}
 
 	@Override
