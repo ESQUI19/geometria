@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Circulo_VNRG"},{"p":"<Unnamed>","l":"FiguraGeometrica_VNRG"},{"p":"<Unnamed>","l":"Rectangulo_VNRG"},{"p":"<Unnamed>","l":"Triangulo_VNRG"}];updateSearchResults();
