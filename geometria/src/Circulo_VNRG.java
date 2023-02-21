@@ -12,6 +12,14 @@ public class Circulo_VNRG extends FiguraGeometrica_VNRG {
 			radio = radio *(-1);
 		}
 	}
+	
+	public void setRadio(double radio) {
+		this.radio = radio;
+	}
+	
+	public double getRadio() {
+		return radio;
+	}
 
 	@Override
 	public double area() {
